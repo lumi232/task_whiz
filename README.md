@@ -43,11 +43,5 @@ You can download the `bert_classifier.pth` file from the following link:
 
 After downloading, place the file in the `models/` directory.
 
-## Contributing
-Contributions to Task Whiz are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 For any queries or feedback, please contact [Dhruv Nagill](mailto:dhruv4386@gmail.com).
