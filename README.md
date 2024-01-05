@@ -50,8 +50,4 @@ Contributions to Task Whiz are welcome! Please read our [Contributing Guidelines
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or feedback, please contact [Your Name](mailto:your.email@example.com).
-
-```
-
-Remember to replace `[Your Name]` and `your.email@example.com` with your actual name and email address. Also, ensure that the links to `CONTRIBUTING.md` and `LICENSE` are correct based on the files in your repository. If these files don't exist, you might want to consider adding them or removing the respective links from the README.
+For any queries or feedback, please contact [Your Name](mailto:dhruv4386@gmail.com).
