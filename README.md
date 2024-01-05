@@ -1,4 +1,3 @@
-```markdown
 # Task Whiz
 
 ## Introduction
