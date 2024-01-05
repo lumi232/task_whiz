@@ -50,4 +50,4 @@ Contributions to Task Whiz are welcome! Please read our [Contributing Guidelines
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or feedback, please contact [Your Name](mailto:dhruv4386@gmail.com).
+For any queries or feedback, please contact [Dhruv Nagill](mailto:dhruv4386@gmail.com).
