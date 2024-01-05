@@ -2,7 +2,7 @@ import openai
 import pandas as pd
 
 # Replace with your OpenAI API key
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 
 # Setup OpenAI API client
 openai.api_key = OPENAI_API_KEY
